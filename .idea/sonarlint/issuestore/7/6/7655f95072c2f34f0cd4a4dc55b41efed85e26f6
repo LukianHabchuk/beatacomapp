@@ -1,0 +1,29 @@
+
+Q
+java:S1874b"4Remove this use of "setPublicKey"; it is deprecated.(ô«Íñ8ë¼ÿÕ.
+K
+java:S1874e".Remove this use of "future"; it is deprecated.(¤Ê¶8ªÃ‚şÕ.
+Q
+java:S1874c"4Remove this use of "setSymmetric"; it is deprecated.(¹Õ‘8û³§‚Ö.
+K
+java:S18748".Remove this use of "future"; it is deprecated.(¤Ê¶8û³§‚Ö.
+R
+java:S1874f"0Remove this use of "complete"; it is deprecated.(½Ê¡‚úÿÿÿÿ8û³§‚Ö.
+U
+java:S1874º"2Remove this use of "JWTOptions"; it is deprecated.(ßµ›Úÿÿÿÿÿ8—Å²‚Ö.
+g
+java:S1874&"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(İèÙ„8ßÊ‚Ö.
+O
+java:S1874("2Remove this use of "setHandler"; it is deprecated.(­Ñê8ßÊ‚Ö.
+R
+java:S1874*"0Remove this use of "complete"; it is deprecated.(ÔĞ¡Èıÿÿÿÿ8ßÊ‚Ö.
+H
+java:S1874,",Remove this use of "fail"; it is deprecated.(ÿö˜L8ßÊ‚Ö.
+R
+java:S1874K"0Remove this use of "complete"; it is deprecated.(½Ê¡‚úÿÿÿÿ8ßÊ‚Ö.
+I
+java:S1874N",Remove this use of "fail"; it is deprecated.(ü•¿8ßÊ‚Ö.
+K
+java:S1874X".Remove this use of "future"; it is deprecated.(¤Ê¶8ßÊ‚Ö.
+R
+java:S1874Y"0Remove this use of "complete"; it is deprecated.(½Ê¡‚úÿÿÿÿ8ßÊ‚Ö.
